@@ -14,5 +14,18 @@ int main()
     // Displays sum      
     printf("%d + %d = %d", firstNumber, secondNumber, sumOfTwoNumbers);
 
+
+    // Displays sum      
+    printf("%d + %d = %d", firstNumber, secondNumber, sumOfTwoNumbers);
+
+
+    // Displays sum      
+    printf("%d + %d = %d", firstNumber, secondNumber, sumOfTwoNumbers);
+
+
+    // Displays sum      
+    printf("%d + %d = %d", firstNumber, secondNumber, sumOfTwoNumbers);
+	
+
     return 0;
 }
